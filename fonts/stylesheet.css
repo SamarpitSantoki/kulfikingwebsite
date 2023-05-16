@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'old_standard_ttregular';
+	src: url('oldstandard-regular-webfont.eot');
+	src: url('oldstandard-regular-webfont.eot?#iefix') format('embedded-opentype'), url('oldstandard-regular-webfont.woff') format('woff'), url('oldstandard-regular-webfont.ttf') format('truetype'), url('oldstandard-regular-webfont.svg#old_standard_ttregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'roboto-light-webfont';
+	src: url('roboto-light-webfont.eot');
+	src: url('roboto-light-webfont.eot?#iefix') format('embedded-opentype'),  url('roboto-light-webfont.ttf') format('truetype'),  url('roboto-light-webfont.svg#roboto-light-webfont') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+ @font-face {
+	font-family: "Roboto Light Italic";
+	src: url("Roboto-LightItalic.eot?") format("eot"), url("Roboto-LightItalic.woff") format("woff"), url("Roboto-LightItalic.ttf") format("truetype"), url("Roboto-LightItalic.svg#Roboto-LightItalic") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Roboto-Regular";
+	src: url("Roboto-Regular.eot?") format("eot"), url("Roboto-Regular.woff") format("woff"), url("Roboto-Regular.ttf") format("truetype"), url("Roboto-Regular.svg#Roboto-Regular") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('fontawesome-webfont.eot?v=4.0.3');
+  src: url('fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('fontawesome-webfont.woff?v=4.0.3') format('woff'), url('fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
